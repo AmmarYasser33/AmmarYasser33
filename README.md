@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ammar.yassr.33@gmail.com**
 
-- ⚡ Fun fact **I read books and go to the GYM very often.**
+- ⚡ Fun fact **I read books and go to the GYM.**
 
 
 <br/>
