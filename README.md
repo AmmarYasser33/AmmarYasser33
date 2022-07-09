@@ -49,7 +49,7 @@
 ## 📊 My Github status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarYasser33)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmmarYasser33&show_icons=true&locale=en" alt="abdelrhman-ahmed-kamal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmmarYasser33&show_icons=true&locale=en" alt="Ammar Yasser" /></p>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
