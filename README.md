@@ -37,28 +37,19 @@
 <br> <br>
 
 <p align="center">
-    <a href="https://github.com/abdelrhman-ahmed-kamal/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdelrhman Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed-kamal&theme=default&hide_border=false&"/>
+    <a href="https://github.com/AmmarYasser33/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ammar Yasser's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmmarYasser33&theme=default&hide_border=false&"/>
     </a>
 </p>
-<!-- 
-languages-1
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en&layout=compact" alt="abdelrhman-ahmed-kamal" /></p>
-status-1 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en" alt="abdelrhman-ahmed-kamal" /></p>
-status-2
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en" alt="abdelrhman-ahmed-kamal" /></p>
-streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed-kamal&" alt="abdelrhman-ahmed-kamal" /></p>--> 
 
 
 <br/>
 <br/>
 
-## 📊 My Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-ahmed-kamal)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 My Github status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarYasser33)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en" alt="abdelrhman-ahmed-kamal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmmarYasser33&show_icons=true&locale=en" alt="abdelrhman-ahmed-kamal" /></p>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -69,16 +60,6 @@ streak
 
 ## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/abdelrhman-ahmed-kamal-203026233/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<a href="https://linkedin.com/in/ammar33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar33" height="30" width="40" /></a>
+<a href="https://fb.com/ammar.yassr.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ammar.yassr.3" height="30" width="40" /></a>
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abdelrhman-ahmed-kamal">
-</a>
-<a href="https://github.com/abdelrhman-ahmed-kamal?tab=followers"><img src="https://img.shields.io/github/followers/abdelrhman-ahmed-kamal?label=Followers&style=social" alt="GitHub Badge"></a>
