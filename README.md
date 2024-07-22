@@ -42,7 +42,14 @@
     </a>
 </p>
 
+<br/>
 
+### Leetcode
+  <div align="center">
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/ammar33?theme=auto&font=baloo&extension=null)
+
+  </div>
 
 <br/>
 <br/>
