@@ -11,7 +11,7 @@
 
 <img width="250" align="right" src="https://raw.githubusercontent.com/AmmarYasser33/AmmarYasser33/main/github.png">
 
-- 🔭 I’m currently a Back-end Instructor at [IEEE Alazhar SB](https://www.linkedin.com/company/ieee-alazhar/)
+- 🔭 I’m currently a Back-end Instructor at [Beyond Apps Group](https://www.beyond-apps-group.com/)
 
 - 🌱 I’m currently learning **React**
 
